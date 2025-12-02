@@ -1,3 +1,9 @@
+sudo systemctl is-active --quiet docker || sudo systemctl start docker
+
+
+
+
+
 #!/bin/sh
 
 # Capture CLI arguments
@@ -7,10 +13,12 @@ db_password=$3
 
 # Start docker
 # Make sure you understand the double pipe operator
-sudo systemctl status docker || sudo systemctl start docker
+sudo systemctl is-active --quiet docker || sudo systemctl start docker
 
 # Check container status (try the following cmds on terminal)
-docker container inspect jrvs-psql
+#docker container inspect jrvs-psql
+#container_status=$?
+docker container inspect jrvs-psql > /dev/null 2>&1
 container_status=$?
 
 # User switch case to handle create|stop|start opetions
@@ -39,9 +47,9 @@ case $cmd in
 
   start|stop) 
   # Check instance status; exit 1 if container has not been created
-  if [ $container_status -eq 1 ]; then
-		echo 'Container has not been created'
-		exit 1
+  if [ $container_status -ne 0 ]; then
+	echo 'Container has not been created'
+	exit 1
   fi
 
   # Start or stop the container
