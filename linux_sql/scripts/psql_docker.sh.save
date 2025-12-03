@@ -2,8 +2,6 @@ sudo systemctl is-active --quiet docker || sudo systemctl start docker
 
 
 
-
-
 #!/bin/sh
 
 # Capture CLI arguments
@@ -19,7 +17,7 @@ sudo systemctl is-active --quiet docker || sudo systemctl start docker
 #docker container inspect jrvs-psql
 #container_status=$?
 docker container inspect jrvs-psql > /dev/null 2>&1
-container_status=$?
+
 
 # User switch case to handle create|stop|start opetions
 case $cmd in 
@@ -63,3 +61,4 @@ case $cmd in
 	exit 1
 	;;
 esac 
+
