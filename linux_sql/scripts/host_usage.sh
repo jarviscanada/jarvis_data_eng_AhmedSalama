@@ -3,7 +3,7 @@
 psql_host=$1
 psql_port=$2
 db_name=$3
-psql_name=$4
+psql_user=$4      # FIXED: was psql_name
 psql_password=$5
 
 if [ "$#" -ne 5 ]; then
@@ -22,7 +22,7 @@ disk_available=$(df -BM / | tail -1 | awk '{gsub("M","",$4); print $4}')
 
 timestamp=$(vmstat -t | awk '{print $18, $19}' | tail -1)
 
-host_id="(SELECT id FROM host_info WHERE hostname='$hostname')";
+host_id="(SELECT id FROM host_info WHERE hostname='$hostname')"
 
 insert_stmt="INSERT INTO host_usage (
     timestamp,
@@ -43,6 +43,5 @@ insert_stmt="INSERT INTO host_usage (
 );"
 
 export PGPASSWORD=$psql_password
-
-psql -h $psql_host -p $psql_port -d $db_name -U $psql_user -c "$insert_stmt"
+psql -h "$psql_host" -p "$psql_port" -d "$db_name" -U "$psql_user" -c "$insert_stmt"
 exit $?

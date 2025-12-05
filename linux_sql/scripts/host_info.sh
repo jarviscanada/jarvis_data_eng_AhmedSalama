@@ -12,12 +12,12 @@ psql_user=$4
 psql_password=$5
 
 hostname=$(hostname -f)
-cpu_number=$(lscpu | awk -F: '/^CPU\(s\)/ {gsub(" ","",$2); print $2}')
-cpu_architecture=$(lscpu | awk -F: '/^Architecture/ {gsub(" ","",$2); print $2}')
-cpu_model=$(lscpu | awk -F: '/^Model name/ {gsub(/^ +| +$/,"",$2); print $2}')
-cpu_mhz=$(lscpu | awk -F: '/^CPU MHz/ {gsub(" ","",$2); print $2}')
-l2_cache=$(lscpu | awk -F: '/^L2 cache/ {gsub("K","",$2); gsub(" ","",$2); print $2}')
-total_mem=$(grep MemTotal /proc/meminfo | awk '{print $2}')  # in KB
+cpu_number=$(lscpu | awk -F: '/^CPU\(s\)/ {print $2}' | xargs)
+cpu_architecture=$(lscpu | awk -F: '/^Architecture/ {print $2}' | xargs)
+cpu_model=$(lscpu | awk -F: '/^Model name/ {print $2}' | xargs)
+cpu_mhz=$(lscpu | awk -F: '/^Model name/ {print $2}' | tr -d '\r\n' | xargs | awk -F'@' '{gsub(/[^0-9.]/,"",$2); printf "%.0f\n", $2*1000}')
+l2_cache=$(lscpu | awk -F: '/^L2 cache/ {print $2}' | xargs | sed 's/[^0-9]*//g')
+total_mem=$(awk '/MemTotal/ {print int($2/1024)}' /proc/meminfo)
 timestamp=$(date -u +"%Y-%m-%d %H:%M:%S")
 
 insert_stmt="INSERT INTO host_info (
