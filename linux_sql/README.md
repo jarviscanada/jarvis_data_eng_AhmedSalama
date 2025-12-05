@@ -24,6 +24,7 @@ Each Linux host runs two monitoring scripts. All hosts send their data to a sing
 This diagram illustrates the Linux Cluster Monitoring Agent setup:
 
 ![Linux Cluster Monitoring Architecture](./assets/linuxprojectdiagram3.jpg)
+
 This diagram illustrates the Linux Cluster Monitoring Agent setup:
 
 
