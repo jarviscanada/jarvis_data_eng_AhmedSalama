@@ -23,10 +23,10 @@ crontab -e
 Each Linux host runs two monitoring scripts. All hosts send their data to a single centralized PostgreSQL database running inside Docker.
 This diagram illustrates the Linux Cluster Monitoring Agent setup:
 
-![Linux Cluster Monitoring Architecture](./assets/linuxprojectdiagram.jpg)
+![Linux Cluster Monitoring Architecture](./assets/linuxprojectdiagram3.jpg)
 This diagram illustrates the Linux Cluster Monitoring Agent setup:
 
-![Linux Cluster Monitoring Architecture](./assets/linuxprojectdiagram2.jpg)
+
 ## Scripts
 
 ```text
