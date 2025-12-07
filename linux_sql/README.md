@@ -1,6 +1,6 @@
 # Linux Cluster Monitoring Agent
 ## Introduction
-This project gives the Jarvis Linux Cluster Administration (LCA) team a way to track their Linux nodes connected through a switch. It collects each nodes hardware specs once and then monitors real-time CPU and memory usage. All data is stored in a PostgreSQL database so the team can run queries and analyze performance. The MVP is built using Bash scripts, Git, Docker, psql, Realvnc and GCP.
+This project gives the Jarvis Linux Cluster Administration (LCA) team a way to track their Linux nodes connected through a switch. It collects each node's hardware specs once and then monitors real-time CPU and memory usage. All data is stored in a PostgreSQL database so the team can run queries and analyze performance. The MVP is built using Bash scripts, Git, Docker, psql, Realvnc and GCP.
 ## Quick Start
 ### 1. Start PostgreSQL using Docker
 ```bash
