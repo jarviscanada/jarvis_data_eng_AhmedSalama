@@ -122,4 +122,4 @@ crontab -l
 #### 4. Run `host_info.sh` and `host_usage.sh` to populate the database.
 #### 5. Add `host_usage.sh` to crontab for scheduled data collection.
 # Improvements
-A good improvement can be to implement an alert for high CPU/memory usage via smtp.
+A good improvement can be to implement an alert for high CPU/memory usage via SMTP.
