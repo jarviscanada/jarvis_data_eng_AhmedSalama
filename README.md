@@ -10,12 +10,12 @@ Business Systems Analyst with 3+ years of experience in banking and payment solu
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/ausama007](https://github.com/ausama007)
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama)
 
 
-**Linux - Cluster Monitoring** [[GitHub](https://github.com/ausama007/tree/masterlinux_sql)]: Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.
+**Linux - Cluster Monitoring** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/masterlinux_sql)]: Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.
 
-**RDBMS and SQL** [[GitHub](https://github.com/ausama007/tree/mastersql)]: Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.
+**RDBMS and SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/mastersql)]: Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.
 
 
 ## Highlighted Projects
