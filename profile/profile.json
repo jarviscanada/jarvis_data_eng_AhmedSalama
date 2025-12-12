@@ -28,7 +28,7 @@
       "school_name": "German University in Cairo"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master/",
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama",
   "highlighted_projects": [
     {
       "description": "Improved RTGS/ACH payment data processing by over 20% through data mapping, automation, and technical documentation.",
@@ -38,7 +38,7 @@
   "jarvis_projects": [
     {
       "description": "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.",
-      "git_url": "/linux_sql",
+      "git_url": "linux_sql",
       "name": "Linux - Cluster Monitoring"
     },
     {
