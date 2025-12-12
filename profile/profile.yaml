@@ -2,7 +2,7 @@
 
 name: Ahmed Salama
 summary: Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting. Published SWIFT ISO 20022 migration course online.
-github_repo_root_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master/"
+github_repo_root_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master"
 
 skills:
   Business Skills:
@@ -78,7 +78,7 @@ jarvis_projects:
     git_url: "linux_sql"
   - name: "RDBMS and SQL"
     description: "Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently."
-    git_url: "sql"
+    git_url: "/sql"
    
 
 highlighted_projects:
