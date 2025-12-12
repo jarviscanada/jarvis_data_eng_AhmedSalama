@@ -38,12 +38,12 @@
   "jarvis_projects": [
     {
       "description": "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.",
-      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/feature/BSA_profile/linux_sql",
+      "git_url": "linux_sql",
       "name": "Linux - Cluster Monitoring"
     },
     {
       "description": "Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.",
-      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/feature/BSA_profile/sql",
+      "git_url": "sql",
       "name": "RDBMS and SQL"
     }
   ],
