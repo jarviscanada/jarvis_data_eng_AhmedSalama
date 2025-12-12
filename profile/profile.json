@@ -38,12 +38,12 @@
   "jarvis_projects": [
     {
       "description": "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.",
-      "git_url": "linux_sql",
+      "git_url": "/linux_sql",
       "name": "Linux - Cluster Monitoring"
     },
     {
       "description": "Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.",
-      "git_url": "sql",
+      "git_url": "/sql",
       "name": "RDBMS and SQL"
     }
   ],
