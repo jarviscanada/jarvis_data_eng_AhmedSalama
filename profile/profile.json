@@ -1,22 +1,28 @@
 {
   "education": [
     {
-      "awards_achievements": [],
-      "degree": "MSc",
+      "awards_achievements": [
+        "Completed MSc in Information Engineering and Technology"
+      ],
+      "degree": "Master of Science",
       "department": "Information Engineering and Technology",
       "duration": "Oct 2024",
       "school_name": "Deutsche Internationale Universität"
     },
     {
-      "awards_achievements": [],
+      "awards_achievements": [
+        "AI and Data Science Diploma"
+      ],
       "degree": "Diploma",
       "department": "AI and Data Science",
       "duration": "Jul 2022",
       "school_name": "German University in Cairo"
     },
     {
-      "awards_achievements": [],
-      "degree": "BSc",
+      "awards_achievements": [
+        "BSc in Information Engineering and Technology"
+      ],
+      "degree": "Bachelor of Science",
       "department": "Information Engineering and Technology",
       "duration": "May 2019",
       "school_name": "German University in Cairo"
@@ -45,22 +51,32 @@
   "others": [
     {
       "bullets": [
-        "https://ausama007.github.io/Salama_Portfolio/"
-      ],
-      "title": "Portfolio"
-    },
-    {
-      "bullets": [
         "English (Fluent)",
         "Arabic (Native)",
         "German (Intermediate)"
       ],
       "title": "Languages"
+    },
+    {
+      "bullets": [
+        "Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Leadership",
+        "Adaptability"
+      ],
+      "title": "Soft Skills"
+    },
+    {
+      "bullets": [
+        "https://ausama007.github.io/Salama_Portfolio/"
+      ],
+      "title": "Portfolio"
     }
   ],
   "professional_experience": [
     {
-      "company": "Navaera Worldwide",
+      "company": "Naveera Worldwide",
       "description": "Produced MT103/pacs.008 data for FINTRAC reporting, enhanced data-mapping processes, developed technical documentation and end-to-end procedures for SWIFT MT/MX reporting, improving processing accuracy and compliance.",
       "duration": "May 2024 - Jul 2025",
       "title": "Business Analyst"
@@ -106,8 +122,8 @@
       "Informatica",
       "Power BI",
       "SWIFT MT/MX mapping",
-      "Microsoft Azure AI Applied Skills - Credential ID 9286B1B6ABC81423"
+      "Microsoft Azure AI Applied Skills"
     ]
   },
-  "summary": "Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting.\n"
+  "summary": "Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting. Published SWIFT ISO 20022 migration course online."
 }

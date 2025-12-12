@@ -1,8 +1,6 @@
 name: Ahmed Salama
 github_repo_root_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama"
-
-summary: >
-  Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting.
+summary: "Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting. Published SWIFT ISO 20022 migration course online."
 
 skills:
   Business Skills:
@@ -31,57 +29,67 @@ skills:
     - Informatica
     - Power BI
     - SWIFT MT/MX mapping
-    - Microsoft Azure AI Applied Skills - Credential ID 9286B1B6ABC81423
+    - Microsoft Azure AI Applied Skills
 
 jarvis_projects:
   - name: Linux - Cluster Monitoring
-    description: Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.
-    git_url: "/linux_sql"
+    git_url: /linux_sql
+    description: "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools."
   - name: RDBMS and SQL
-    description: Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.
-    git_url: "/sql"
+    git_url: /sql
+    description: "Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently."
 
 highlighted_projects:
   - name: SWIFT MX Migration & FINTRAC Reporting
-    description: Improved RTGS/ACH payment data processing by over 20% through data mapping, automation, and technical documentation.
+    description: "Improved RTGS/ACH payment data processing by over 20% through data mapping, automation, and technical documentation."
 
 professional_experience:
   - title: Business Analyst
-    company: Navaera Worldwide
+    company: Naveera Worldwide
     duration: May 2024 - Jul 2025
-    description: Produced MT103/pacs.008 data for FINTRAC reporting, enhanced data-mapping processes, developed technical documentation and end-to-end procedures for SWIFT MT/MX reporting, improving processing accuracy and compliance.
+    description: "Produced MT103/pacs.008 data for FINTRAC reporting, enhanced data-mapping processes, developed technical documentation and end-to-end procedures for SWIFT MT/MX reporting, improving processing accuracy and compliance."
   - title: Business Analyst
     company: eVision For Fintech Solutions
     duration: Nov 2022 - Feb 2024
-    description: Led SWIFT MT to MX migration in Agile Scrum environment using Jira; prepared BRDs, user stories, and QA test cases; maintained AML/CFT sanction-screening with LexisNexis and World-Check, optimizing multiple payment streams.
+    description: "Led SWIFT MT to MX migration in Agile Scrum environment using Jira; prepared BRDs, user stories, and QA test cases; maintained AML/CFT sanction-screening with LexisNexis and World-Check, optimizing multiple payment streams."
   - title: Data Engineer
     company: Abu Dhabi Islamic Bank
     duration: Nov 2021 - Nov 2022
-    description: Delivered SAP BO reports and root-cause analysis for IFRS 9 data; maintained end-of-day/month/year reporting pipelines across Testing, UAT, and Production; improved reporting efficiency and data accuracy.
+    description: "Delivered SAP BO reports and root-cause analysis for IFRS 9 data; maintained end-of-day/month/year reporting pipelines across Testing, UAT, and Production; improved reporting efficiency and data accuracy."
 
 education:
   - school_name: Deutsche Internationale Universität
-    degree: MSc
-    department: Information Engineering and Technology
+    degree: Master of Science
     duration: Oct 2024
-    awards_achievements: []
+    department: Information Engineering and Technology
+    awards_achievements:
+      - "Completed MSc in Information Engineering and Technology"
   - school_name: German University in Cairo
     degree: Diploma
-    department: AI and Data Science
     duration: Jul 2022
-    awards_achievements: []
+    department: AI and Data Science
+    awards_achievements:
+      - "AI and Data Science Diploma"
   - school_name: German University in Cairo
-    degree: BSc
-    department: Information Engineering and Technology
+    degree: Bachelor of Science
     duration: May 2019
-    awards_achievements: []
+    department: Information Engineering and Technology
+    awards_achievements:
+      - "BSc in Information Engineering and Technology"
 
 others:
-  - title: Portfolio
-    bullets:
-      - https://ausama007.github.io/Salama_Portfolio/
   - title: Languages
     bullets:
       - English (Fluent)
       - Arabic (Native)
       - German (Intermediate)
+  - title: Soft Skills
+    bullets:
+      - Communication
+      - Teamwork
+      - Problem Solving
+      - Leadership
+      - Adaptability
+  - title: Portfolio
+    bullets:
+      - "https://ausama007.github.io/Salama_Portfolio/"
