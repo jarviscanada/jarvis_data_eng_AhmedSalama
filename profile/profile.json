@@ -1,28 +1,22 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Completed MSc in Information Engineering and Technology"
-      ],
-      "degree": "Master of Science",
+      "awards_achievements": [],
+      "degree": "MSc",
       "department": "Information Engineering and Technology",
       "duration": "Oct 2024",
       "school_name": "Deutsche Internationale Universität"
     },
     {
-      "awards_achievements": [
-        "AI and Data Science Diploma"
-      ],
+      "awards_achievements": [],
       "degree": "Diploma",
       "department": "AI and Data Science",
       "duration": "Jul 2022",
       "school_name": "German University in Cairo"
     },
     {
-      "awards_achievements": [
-        "BSc in Information Engineering and Technology"
-      ],
-      "degree": "Bachelor of Science",
+      "awards_achievements": [],
+      "degree": "BSc",
       "department": "Information Engineering and Technology",
       "duration": "May 2019",
       "school_name": "German University in Cairo"
@@ -38,7 +32,7 @@
   "jarvis_projects": [
     {
       "description": "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.",
-      "git_url": "linux_sql",
+      "git_url": "/linux_sql",
       "name": "Linux - Cluster Monitoring"
     },
     {
@@ -48,32 +42,7 @@
     }
   ],
   "name": "Ahmed Salama",
-  "others": [
-    {
-      "bullets": [
-        "https://ausama007.github.io/Salama_Portfolio/"
-      ],
-      "title": "Portfolio"
-    },
-    {
-      "bullets": [
-        "English (Fluent)",
-        "Arabic (Native)",
-        "German (Intermediate)"
-      ],
-      "title": "Languages"
-    },
-    {
-      "bullets": [
-        "Communication",
-        "Teamwork",
-        "Problem Solving",
-        "Leadership",
-        "Adaptability"
-      ],
-      "title": "Soft Skills"
-    }
-  ],
+  "others": [],
   "professional_experience": [
     {
       "company": "Navaera Worldwide",
@@ -125,5 +94,5 @@
       "Microsoft Azure AI Applied Skills - Credential ID 9286B1B6ABC81423"
     ]
   },
-  "summary": "Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting. Published SWIFT ISO 20022 migration course online."
+  "summary": "Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting.\n"
 }
