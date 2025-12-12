@@ -34,11 +34,11 @@ skills:
 jarvis_projects:
   - name: "Linux - Cluster Monitoring"
     description: "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools."
-    git_url: "linux_sql"
+    git_url: "/linux_sql"
 
   - name: "RDBMS and SQL"
     description: "Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently."
-    git_url: "sql"
+    git_url: "/sql"
 
 highlighted_projects:
   - "SWIFT MX Migration & FINTRAC Reporting: Improved RTGS/ACH payment data processing by over 20% through data mapping, automation, and technical documentation."
