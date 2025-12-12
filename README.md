@@ -13,7 +13,9 @@ Business Systems Analyst with 3+ years of experience in banking and payment solu
 Project source code: [https://github.com/ausama007](https://github.com/ausama007)
 
 
-**SWIFT ISO 20022 Migration Course** [[GitHub](https://github.com/ausama007/tree/masterhttps://www.udemy.com/course/mastering-swift-messaging-from-mt-to-iso-20022-excellence/)]: Published an online course teaching SWIFT MT to MX migration concepts and regulatory compliance.
+**Linux - Cluster Monitoring** [[GitHub](https://github.com/ausama007/tree/master)]: Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.
+
+**RDBMS and SQL** [[GitHub](https://github.com/ausama007/tree/master)]: Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.
 
 
 ## Highlighted Projects

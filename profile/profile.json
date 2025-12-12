@@ -37,9 +37,14 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Published an online course teaching SWIFT MT to MX migration concepts and regulatory compliance.",
-      "git_url": "https://www.udemy.com/course/mastering-swift-messaging-from-mt-to-iso-20022-excellence/",
-      "name": "SWIFT ISO 20022 Migration Course"
+      "description": "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.",
+      "git_url": "",
+      "name": "Linux - Cluster Monitoring"
+    },
+    {
+      "description": "Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.",
+      "git_url": "",
+      "name": "RDBMS and SQL"
     }
   ],
   "name": "Ahmed Salama",
