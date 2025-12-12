@@ -42,7 +42,50 @@
     }
   ],
   "name": "Ahmed Salama",
-  "others": [],
+  "others": [
+    {
+      "bullets": [
+        "https://ausama007.github.io/Salama_Portfolio/"
+      ],
+      "title": "Portfolio"
+    },
+    {
+      "bullets": [
+        "English (Fluent)",
+        "Arabic (Native)",
+        "German (Intermediate)"
+      ],
+      "title": "Languages"
+    },
+    {
+      "bullets": [
+        "Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Leadership",
+        "Adaptability"
+      ],
+      "title": "Soft Skills"
+    },
+    {
+      "bullets": [
+        "https://www.linkedin.com/in/ausalama/"
+      ],
+      "title": "LinkedIn"
+    },
+    {
+      "bullets": [
+        "ahmedsalama.xyz@gmail.com"
+      ],
+      "title": "Email"
+    },
+    {
+      "bullets": [
+        "+1 437 460 4760"
+      ],
+      "title": "Phone"
+    }
+  ],
   "professional_experience": [
     {
       "company": "Navaera Worldwide",
