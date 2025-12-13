@@ -6,7 +6,7 @@
       ],
       "degree": "Master of Science",
       "department": "Information Engineering and Technology",
-      "duration": "Oct 2024",
+      "duration": "2024 - 2025",
       "school_name": "Deutsche Internationale Universität"
     },
     {
@@ -15,7 +15,7 @@
       ],
       "degree": "Diploma",
       "department": "AI and Data Science",
-      "duration": "Jul 2022",
+      "duration": "2021 - 2022",
       "school_name": "German University in Cairo"
     },
     {
@@ -24,25 +24,31 @@
       ],
       "degree": "Bachelor of Science",
       "department": "Information Engineering and Technology",
-      "duration": "May 2019",
+      "duration": "2014 - 2019",
       "school_name": "German University in Cairo"
     }
   ],
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama",
   "highlighted_projects": [
     {
-      "description": "Improved RTGS/ACH payment data processing by over 20% through data mapping, automation, and technical documentation.",
+      "description": "Designed and delivered SWIFT MT to ISO 20022 MX migration solutions while supporting FINTRAC regulatory reporting requirements through accurate data mapping, validation, and end-to-end documentation.\n",
       "name": "SWIFT MX Migration \u0026 FINTRAC Reporting"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Implemented a Linux-based cluster monitoring system to track node performance, system health, and alerts using shell scripting and monitoring tools.",
+      "description": [
+        "Implemented a Linux-based cluster monitoring solution using Bash scripting.",
+        "Collected system metrics, stored them in a relational database, and enabled basic performance analytics."
+      ],
       "git_url": "/linux_sql",
       "name": "Linux - Cluster Monitoring"
     },
     {
-      "description": "Designed and implemented relational database systems with SQL queries and stored procedures to manage and analyze structured data efficiently.",
+      "description": [
+        "Designed normalized relational database schemas using SQL best practices.",
+        "Developed complex queries, joins, and stored procedures to support reporting and analytics."
+      ],
       "git_url": "/sql",
       "name": "RDBMS and SQL"
     }
@@ -59,6 +65,16 @@
     },
     {
       "bullets": [
+        "Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Leadership",
+        "Adaptability"
+      ],
+      "title": "Soft Skills"
+    },
+    {
+      "bullets": [
         "https://ausama007.github.io/Salama_Portfolio/"
       ],
       "title": "Portfolio"
@@ -67,53 +83,48 @@
   "professional_experience": [
     {
       "company": "Naveera Worldwide",
-      "description": "Produced MT103/pacs.008 data for FINTRAC reporting, enhanced data-mapping processes, developed technical documentation and end-to-end procedures for SWIFT MT/MX reporting, improving processing accuracy and compliance.",
+      "description": "Produced and validated MT103 and pacs.008 transaction data to support FINTRAC regulatory reporting. Improved data-mapping processes by analyzing upstream and downstream systems, and developed technical documentation to ensure compliance and cross-team alignment.\n",
       "duration": "May 2024 - Jul 2025",
       "title": "Business Analyst"
     },
     {
       "company": "eVision For Fintech Solutions",
-      "description": "Led SWIFT MT to MX migration in Agile Scrum environment using Jira; prepared BRDs, user stories, and QA test cases; maintained AML/CFT sanction-screening with LexisNexis and World-Check, optimizing multiple payment streams.",
+      "description": "Led SWIFT MT to ISO 20022 MX migration in an Agile Scrum environment using Jira. Prepared BRDs, user stories, and acceptance criteria, and collaborated with QA teams to execute testing and ensure successful delivery.\n",
       "duration": "Nov 2022 - Feb 2024",
       "title": "Business Analyst"
     },
     {
       "company": "Abu Dhabi Islamic Bank",
-      "description": "Delivered SAP BO reports and root-cause analysis for IFRS 9 data; maintained end-of-day/month/year reporting pipelines across Testing, UAT, and Production; improved reporting efficiency and data accuracy.",
+      "description": "Delivered SAP BusinessObjects reports and performed root-cause analysis for IFRS 9 financial data. Maintained end-of-day, month-end, and year-end reporting pipelines to ensure accuracy and system reliability.\n",
       "duration": "Nov 2021 - Nov 2022",
       "title": "Data Engineer"
     }
   ],
   "skills": {
     "Business Skills": [
-      "Agile/Scrum",
-      "BRDs",
+      "Agile / Scrum",
+      "Business Requirements Documentation (BRDs)",
       "User Stories",
-      "BPMN/UML",
+      "BPMN / UML",
       "Impact \u0026 Gap Analysis",
-      "Regulatory Reporting (FINTRAC EFT Gen2, AML/ATF/CFT)",
       "Stakeholder Management",
-      "Jira",
-      "RTGS/ACH data flows",
-      "Cisco ticketing"
+      "Regulatory Reporting (FINTRAC, AML/CFT)",
+      "Communication",
+      "Problem Solving"
     ],
     "Technical Skills": [
       "Java",
       "Python",
-      "SQL (Oracle/Postgres)",
-      "Linux scripting",
+      "SQL (Oracle, PostgreSQL)",
+      "Linux / Bash",
+      "Git",
       "Docker",
       "AWS",
       "Azure",
-      "GDS",
-      "Prompt Engineering",
-      "SAP BO",
-      "UDT",
-      "Informatica",
       "Power BI",
-      "SWIFT MT/MX mapping",
-      "Microsoft Azure AI Applied Skills"
+      "Informatica",
+      "SWIFT MT / MX Mapping"
     ]
   },
-  "summary": "Business Systems Analyst with 3+ years of experience in banking and payment solutions, including one year in Canada. Specialized in data integration, automation, regulatory compliance, SWIFT MT/MX migration, and AML/CFT reporting. Published SWIFT ISO 20022 migration course online."
+  "summary": "Business Systems Analyst with over three years of experience in banking, payments, and regulatory reporting environments, including professional experience in Canada. Strong background in SWIFT MT/MX migration, FINTRAC reporting, data mapping, and Agile delivery. Passionate about bridging business and technology to deliver compliant, scalable financial solutions.\n"
 }
