@@ -48,8 +48,7 @@ The architecture of this project follows a simple data analytics workflow:
 
 **Architecture Diagram**
 
-![Diagram](pythondiagram.JPG)
-
+![Project Architecture](pythondiagram.jpg)
 
 ---
 
@@ -57,7 +56,7 @@ The architecture of this project follows a simple data analytics workflow:
 
 The core analytics work is implemented in the following notebook:
 
---> Notebook: **[Retail Data Analytics & Wrangling Notebook](./retail_data_analytics_wrangling.ipynb)**
+**[Retail Data Analytics & Wrangling Notebook](./retail_data_analytics_wrangling.ipynb)**
 
 In this notebook, the following steps are performed:
 
