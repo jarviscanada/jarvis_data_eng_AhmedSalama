@@ -1,4 +1,4 @@
-# Retail Data Analytics & Wrangling Project
+# Python Data Analytics LGS retail project
 
 ## Introduction
 
