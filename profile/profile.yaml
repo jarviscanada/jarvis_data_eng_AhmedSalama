@@ -48,16 +48,10 @@ jarvis_projects:
     git_url: "/linux_sql"
     # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (Python Data Analyticsy/NlXQ)
     # Please include the following keywords: CentOS, Bash/Shell, docker, RDBMS/SQL/Postgresql, crontab, data/python_data_analyticss
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Designed and implemented a Linux Cluster Resource Monitoring App using Bash, Docker, and PostgreSQL to monitor real-time CPU and memory usage across nodes. Collected hardware specs with host_info.sh and usage data with host_usage.sh, storing results in psql tables for analysis. Tested data collection and insertion, ensured scheduling via crontab, and deployed using Docker containers. The system supports historical analytics and reporting for cluster performance monitoring.
   - name: "Python Data Analytics"
     git_url: "/python_data_analytics"
-    description:
-      #Keywords: Java 8, REST API, OAuth, Design patterns (e.g. DAO, MVC), JUnit, Mockito, Docker
-      - "Twitter CRUD App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      # Keywords: Java 8, JDBC, RDBMS, SQL, CRUD,DAO
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      # Keywords: Java 8, Lambda, Stream API, IntelliJ
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+    description: Developed a Python Data Analytics project to analyze London Gift Shop (LGS) retail transactional data. Implemented ETL workflows using Pandas and NumPy, loaded data from PostgreSQL into DataFrames, and engineered features such as invoice amount, monthly sales, and RFM metrics. Conducted exploratory analysis in Jupyter Notebook and delivered actionable insights to optimize marketing campaigns, detect cancellations, and increase revenue. Docker ensured reproducibility of the environment.
   # Please remove not started projects below so that they don't show up in your profile for now.
   # You will need to add a project back to your profile upon completion
   - name: "Spring RESTful Microservices App"
