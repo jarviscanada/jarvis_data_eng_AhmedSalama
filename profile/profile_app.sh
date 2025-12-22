@@ -6,7 +6,7 @@ cd "$(dirname "$0")"
 function init() {
   echo "---- Downloading sample profile.yaml file ----"
   chmod +x $0
-  wget https://raw.githubusercontent.com/jarviscanada/jarvis_profile_builder/BSA_profile/profile.yaml -O profile.yaml
+  wget https://raw.githubusercontent.com/jarviscanada/jarvis_profile_builder/develop/profile.yaml -O profile.yaml
   exit 0
 }
 
@@ -24,9 +24,9 @@ function check_status() {
 
 function validate_yaml() {
   echo "---- Validating profile.yaml file ----"
-  docker pull jrvs/yamale:bsa
+  docker pull jrvs/yamale
   docker pull mikefarah/yq:3.3.4
-  docker run --rm -v "${PWD}":/workdir jrvs/yamale:bsa yamale -s /schema/profile_schema.yaml profile.yaml
+  docker run --rm -v "${PWD}":/workdir jrvs/yamale yamale -s /schema/profile_schema.yaml profile.yaml
   check_status $?
 }
 
@@ -46,8 +46,8 @@ function yaml_to_json() {
 
 function render_md() {
   echo "---- Rendering profile.md ----"
-  docker pull jrvs/render_profile_md:bsa
-  docker run --rm -it -v "${PWD}":/workdir jrvs/render_profile_md:bsa  profile.yaml profile.md
+  docker pull jrvs/render_profile_md
+  docker run --rm -it -v "${PWD}":/workdir jrvs/render_profile_md  profile.yaml profile.md
   check_status $?
 }
 
