@@ -54,10 +54,6 @@ jarvis_projects:
     description: Developed a Python Data Analytics project to analyze London Gift Shop (LGS) retail transactional data. Implemented ETL workflows using Pandas and NumPy, loaded data from PostgreSQL into DataFrames, and engineered features such as invoice amount, monthly sales, and RFM metrics. Conducted exploratory analysis in Jupyter Notebook and delivered actionable insights to optimize marketing campaigns, detect cancellations, and increase revenue. Docker ensured reproducibility of the environment.
   # Please remove not started projects below so that they don't show up in your profile for now.
   # You will need to add a project back to your profile upon completion
-  - name: "Spring RESTful Microservices App"
-    git_url: "/springboot"
-    #Keywords: Java8, Spring Boot, REST API, Swagger, Postman, Microservice, Docker, JDBC/JDBCTemplate/DataSource, RDBMS/SQL, Junit, Mockito, etc.
-    description: ""
 # List of personal or academic projects
 # Feel free to add more projects
 # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)

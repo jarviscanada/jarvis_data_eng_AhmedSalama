@@ -66,11 +66,6 @@
       "description": "Developed a Python Data Analytics project to analyze London Gift Shop (LGS) retail transactional data. Implemented ETL workflows using Pandas and NumPy, loaded data from PostgreSQL into DataFrames, and engineered features such as invoice amount, monthly sales, and RFM metrics. Conducted exploratory analysis in Jupyter Notebook and delivered actionable insights to optimize marketing campaigns, detect cancellations, and increase revenue. Docker ensured reproducibility of the environment.",
       "git_url": "/python_data_analytics",
       "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Spring RESTful Microservices App"
     }
   ],
   "name": "Ahmed Salama",
