@@ -56,10 +56,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AhmedSalam
 
 ## Miscellaneous
 - Microsoft Azure AI Applied Skills Certification
-<<<<<<< HEAD
 - Technical content creator on SWIFT ISO 20022
 - Experience working across Egypt, Germany, and Canada
-=======
-- Technical content creator on SWIFT ISO 20022 on Youtube and Udemy
-- Experience working across Egypt, Germany, and Canada
->>>>>>> 9e40821 (1 2 3)
+
