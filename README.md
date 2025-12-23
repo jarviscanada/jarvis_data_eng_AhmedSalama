@@ -50,7 +50,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AhmedSalam
 
 
 ## Education
-**Deutsche Internationale Universität in Berlin (20232024)**, M.Sc. in Information Engineering and Technology, Information Engineering and Technology
+**Deutsche Internationale Universität in Berlin (2023-2024)**, M.Sc. in Information Engineering and Technology, Information Engineering and Technology
 - Scholarship
 
 **German University in Cairo (2021-2022)**, Diploma in AI and Data Science, Artificial Intelligence and Data Science
