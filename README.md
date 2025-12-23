@@ -15,15 +15,9 @@ Business Systems Analyst with over three years of experience in banking and fint
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master/linux_sql)]: Designed and implemented a Linux Cluster Resource Monitoring App using Bash, Docker, and PostgreSQL to monitor real-time CPU and memory usage across nodes. Collected hardware specs with host_info.sh and usage data with host_usage.sh, storing results in psql tables for analysis. Tested data collection and insertion, ensured scheduling via crontab, and deployed using Docker containers. The system supports historical analytics and reporting for cluster performance monitoring.
 
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master/python_data_analytics)]:
-      
-  - Twitter CRUD App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Spring RESTful Microservices App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master/springboot)]: Not Started
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama/tree/master/python_data_analytics)]: Developed a Python Data Analytics project to analyze London Gift Shop (LGS) retail transactional data. Implemented ETL workflows using Pandas and NumPy, loaded data from PostgreSQL into DataFrames, and engineered features such as invoice amount, monthly sales, and RFM metrics. Conducted exploratory analysis in Jupyter Notebook and delivered actionable insights to optimize marketing campaigns, detect cancellations, and increase revenue. Docker ensured reproducibility of the environment.
 
 
 ## Highlighted Projects
@@ -62,5 +56,10 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AhmedSalam
 
 ## Miscellaneous
 - Microsoft Azure AI Applied Skills Certification
+<<<<<<< HEAD
 - Technical content creator on SWIFT ISO 20022
 - Experience working across Egypt, Germany, and Canada
+=======
+- Technical content creator on SWIFT ISO 20022 on Youtube and Udemy
+- Experience working across Egypt, Germany, and Canada
+>>>>>>> 9e40821 (1 2 3)
