@@ -1,0 +1,142 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Scholarship"
+      ],
+      "degree": "M.Sc. in Information Engineering and Technology",
+      "department": "Information Engineering and Technology",
+      "duration": "2023-2024",
+      "school_name": "Deutsche Internationale Universität in Berlin"
+    },
+    {
+      "awards_achievements": [
+        "Scholarship"
+      ],
+      "degree": "Diploma in AI and Data Science",
+      "department": "Artificial Intelligence and Data Science",
+      "duration": "2021-2022",
+      "school_name": "German University in Cairo"
+    },
+    {
+      "awards_achievements": [
+        "Scholarship"
+      ],
+      "degree": "B.Sc. in Information Engineering and Technology",
+      "department": "Information Engineering and Technology",
+      "duration": "2014-2019",
+      "school_name": "German University in Cairo"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama",
+  "highlighted_projects": [
+    {
+      "description": "Develop AI models to detect and prevent credit card fraud by analyzing transaction patterns and identifying anomalies.",
+      "git_url": "https://drive.google.com/file/d/1MBrOIy87VSqnSaIcwhmDdMqK42b7lJXV/view?usp=drive_link",
+      "name": "AI-Powered Credit Card Fraud Detection"
+    },
+    {
+      "description": "Analyze 12 months of electronics sales data using Python Pandas and Matplotlib to answer key business questions, clean and transform data, and visualize trends to support decision-making.",
+      "git_url": "https://github.com/AUsama007/Data-Science-Sales-Analysis",
+      "name": "Data Science Sales Analysis"
+    },
+    {
+      "description": "Scrape and clean over 1000 job postings from Glassdoor, engineer features from job descriptions, and build predictive models using Linear Regression and Random Forest to estimate data science salaries.",
+      "git_url": "https://github.com/AUsama007/DataScienceSalary",
+      "name": "Data Science Salary Project"
+    },
+    {
+      "description": "Explore LendingClub loan data to classify borrowers and predict loan repayment using Python, performing data cleaning, feature analysis, and model building to support investment decisions.",
+      "git_url": "https://github.com/AUsama007/Loan_Lending_Project",
+      "name": "Loan Lending Project"
+    },
+    {
+      "description": "Investigate customer behavior data from an e-commerce company to determine whether to optimize the mobile app or website, applying exploratory data analysis, visualization, and predictive modeling to inform business strategy.",
+      "git_url": "https://github.com/AUsama007/E_Commerce_Predections",
+      "name": "E-Commerce Predictions"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Designed and implemented a Linux Cluster Resource Monitoring App using Bash, Docker, and PostgreSQL to monitor real-time CPU and memory usage across nodes. Collected hardware specs with host_info.sh and usage data with host_usage.sh, storing results in psql tables for analysis. Tested data collection and insertion, ensured scheduling via crontab, and deployed using Docker containers. The system supports historical analytics and reporting for cluster performance monitoring.",
+      "git_url": "/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "Developed a Python Data Analytics project to analyze London Gift Shop (LGS) retail transactional data. Implemented ETL workflows using Pandas and NumPy, loaded data from PostgreSQL into DataFrames, and engineered features such as invoice amount, monthly sales, and RFM metrics. Conducted exploratory analysis in Jupyter Notebook and delivered actionable insights to optimize marketing campaigns, detect cancellations, and increase revenue. Docker ensured reproducibility of the environment.",
+      "git_url": "/python_data_analytics",
+      "name": "Python Data Analytics"
+    }
+  ],
+  "name": "Ahmed Salama",
+  "others": [
+    {
+      "bullets": [
+        "Microsoft Azure AI Applied Skills Certification"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Technical content creator on SWIFT ISO 20022 on Youtube and Udemy",
+        "Experience working across Egypt, Germany, and Canada"
+      ],
+      "title": "Activities"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Design and implement data pipelines, clean and transform transactional data, and engineer features to deliver actionable insights for business decision-making.",
+      "duration": "2025-present",
+      "title": "Data Engineer"
+    },
+    {
+      "company": "Navaera Worldwide",
+      "description": "Supported regulatory compliance initiatives by producing MT103 and pacs.008 payment data for FINTRAC EFT Gen2 reporting. Improved SWIFT MT/MX data-mapping processes, developed technical documentation and end-to-end procedures, and collaborated with cross-functional teams to ensure accurate and auditable payment reporting in a Canadian regulatory environment.",
+      "duration": "2024-2025",
+      "title": "Business Analyst"
+    },
+    {
+      "company": "eVision for Fintech Solutions",
+      "description": "Managed business requirements for SWIFT MT to MX migration projects in an Agile Scrum environment. Authored BRDs, user stories, and test cases, supported backlog management using Jira, and worked closely with development and QA teams. Maintained AML and CFT sanctions-screening processes in collaboration with LexisNexis and World-Check.",
+      "duration": "2022-2024",
+      "title": "Business Analyst"
+    },
+    {
+      "company": "Abu Dhabi Islamic Bank",
+      "description": "Delivered IFRS 9 data support by developing and maintaining SAP BusinessObjects reports and conducting root-cause analysis for reporting issues. Maintained end-of-day, end-of-month, and end-of-year reporting pipelines across testing, UAT, and production environments while supporting business stakeholders with data-driven insights.",
+      "duration": "2021-2022",
+      "title": "Data Engineer"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Git",
+      "Linux/Bash",
+      "Data Integration",
+      "BPMN \u0026 UML Modeling",
+      "Reporting Workflows",
+      "Documentation Standards",
+      "fermentum",
+      "Donec"
+    ],
+    "familiar": [
+      "AWS \u0026 Azure",
+      "Azure AI Applied Skills",
+      "Cloud Automation",
+      "Data Pipelines",
+      "ETL Processes"
+    ],
+    "proficient": [
+      "Agile/SCRUM",
+      "SWIFT MT/MX \u0026 ISO 20022 Mapping",
+      "SQL",
+      "User Stories \u0026 Backlog Grooming",
+      "RDBMS/SQL",
+      "Stakeholder Management",
+      "Jira"
+    ]
+  },
+  "summary": "Business Systems Analyst with over three years of experience in banking and fintech, including one year working in Canada. I have a strong background in payments systems, data integration, and regulatory compliance, with hands-on experience supporting SWIFT MT to MX (ISO 20022) migration, FINTRAC EFT Gen2 reporting, and IFRS 9 initiatives. I have worked in Agile Scrum environments, producing BRDs, user stories, BPMN/UML models, and SQL-based data mappings while collaborating closely with developers, QA teams, and business stakeholders. I am passionate about roles that combine business analysis, data, and financial technology."
+}
