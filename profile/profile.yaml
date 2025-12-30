@@ -1,0 +1,132 @@
+# Preferred name (Characters only)
+name: "Ahmed Salama"
+
+# Your GitHub repo root URL
+github_repo_root_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama"
+
+# Professional summary (minimum 80 characters)
+summary: >
+  Business Systems Analyst with over three years of experience in banking,
+  payments, and regulatory reporting environments, including professional
+  experience in Canada. Strong background in SWIFT MT/MX migration, FINTRAC
+  reporting, data mapping, and Agile delivery. Passionate about bridging
+  business and technology to deliver compliant, scalable financial solutions.
+
+# Skills grouped by proficiency
+
+skills:
+  Business Skills:
+    - Agile / Scrum
+    - Business Requirements Documentation (BRDs)
+    - User Stories
+    - BPMN / UML
+    - Impact & Gap Analysis
+    - Stakeholder Management
+    - Regulatory Reporting (FINTRAC, AML/CFT)
+    - Communication
+    - Problem Solving
+
+  Technical Skills:
+    - Java
+    - Python
+    - SQL (Oracle, PostgreSQL)
+    - Linux / Bash
+    - Git
+    - Docker
+    - AWS
+    - Azure
+    - Power BI
+    - Informatica
+    - SWIFT MT / MX Mapping
+
+# Jarvis projects (git_url must start with /)
+jarvis_projects:
+  - name: "Linux - Cluster Monitoring"
+    git_url: "/linux_sql"
+    description:
+      - Implemented a Linux-based cluster monitoring solution using Bash scripting.
+      - Collected system metrics, stored them in a relational database, and enabled basic performance analytics.
+
+  - name: "RDBMS and SQL"
+    git_url: "/sql"
+    description:
+      - Designed normalized relational database schemas using SQL best practices.
+      - Developed complex queries, joins, and stored procedures to support reporting and analytics.
+
+# Highlighted projects
+highlighted_projects:
+  - name: "SWIFT MX Migration & FINTRAC Reporting"
+    description: >
+      Designed and delivered SWIFT MT to ISO 20022 MX migration solutions while
+      supporting FINTRAC regulatory reporting requirements through accurate
+      data mapping, validation, and end-to-end documentation.
+
+# Professional experience
+professional_experience:
+  - title: "Business Analyst"
+    company: "Naveera Worldwide"
+    duration: "May 2024 - Jul 2025"
+    description: >
+      Produced and validated MT103 and pacs.008 transaction data to support
+      FINTRAC regulatory reporting. Improved data-mapping processes by analyzing
+      upstream and downstream systems, and developed technical documentation
+      to ensure compliance and cross-team alignment.
+
+  - title: "Business Analyst"
+    company: "eVision For Fintech Solutions"
+    duration: "Nov 2022 - Feb 2024"
+    description: >
+      Led SWIFT MT to ISO 20022 MX migration in an Agile Scrum environment using Jira.
+      Prepared BRDs, user stories, and acceptance criteria, and collaborated with
+      QA teams to execute testing and ensure successful delivery.
+
+  - title: "Data Engineer"
+    company: "Abu Dhabi Islamic Bank"
+    duration: "Nov 2021 - Nov 2022"
+    description: >
+      Delivered SAP BusinessObjects reports and performed root-cause analysis
+      for IFRS 9 financial data. Maintained end-of-day, month-end, and year-end
+      reporting pipelines to ensure accuracy and system reliability.
+
+# Education
+education:
+  - school_name: "Deutsche Internationale Universität"
+    degree: "Master of Science"
+    duration: "2024 - 2025"
+    department: "Information Engineering and Technology"
+    awards_achievements:
+      - "Completed MSc in Information Engineering and Technology"
+
+  - school_name: "German University in Cairo"
+    degree: "Diploma"
+    duration: "2021 - 2022"
+    department: "AI and Data Science"
+    awards_achievements:
+      - "AI and Data Science Diploma"
+
+  - school_name: "German University in Cairo"
+    degree: "Bachelor of Science"
+    duration: "2014 - 2019"
+    department: "Information Engineering and Technology"
+    awards_achievements:
+      - "BSc in Information Engineering and Technology"
+
+# Miscellaneous (languages, soft skills, links, etc.)
+others:
+  - title: "Languages"
+    bullets:
+      - English (Fluent)
+      - Arabic (Native)
+      - German (Intermediate)
+
+  - title: "Soft Skills"
+    bullets:
+      - Communication
+      - Teamwork
+      - Problem Solving
+      - Leadership
+      - Adaptability
+
+  - title: "Portfolio"
+    bullets:
+      - "https://ausama007.github.io/Salama_Portfolio/"

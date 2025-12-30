@@ -1,0 +1,130 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Completed MSc in Information Engineering and Technology"
+      ],
+      "degree": "Master of Science",
+      "department": "Information Engineering and Technology",
+      "duration": "2024 - 2025",
+      "school_name": "Deutsche Internationale Universität"
+    },
+    {
+      "awards_achievements": [
+        "AI and Data Science Diploma"
+      ],
+      "degree": "Diploma",
+      "department": "AI and Data Science",
+      "duration": "2021 - 2022",
+      "school_name": "German University in Cairo"
+    },
+    {
+      "awards_achievements": [
+        "BSc in Information Engineering and Technology"
+      ],
+      "degree": "Bachelor of Science",
+      "department": "Information Engineering and Technology",
+      "duration": "2014 - 2019",
+      "school_name": "German University in Cairo"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmedSalama",
+  "highlighted_projects": [
+    {
+      "description": "Designed and delivered SWIFT MT to ISO 20022 MX migration solutions while supporting FINTRAC regulatory reporting requirements through accurate data mapping, validation, and end-to-end documentation.\n",
+      "name": "SWIFT MX Migration \u0026 FINTRAC Reporting"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": [
+        "Implemented a Linux-based cluster monitoring solution using Bash scripting.",
+        "Collected system metrics, stored them in a relational database, and enabled basic performance analytics."
+      ],
+      "git_url": "/linux_sql",
+      "name": "Linux - Cluster Monitoring"
+    },
+    {
+      "description": [
+        "Designed normalized relational database schemas using SQL best practices.",
+        "Developed complex queries, joins, and stored procedures to support reporting and analytics."
+      ],
+      "git_url": "/sql",
+      "name": "RDBMS and SQL"
+    }
+  ],
+  "name": "Ahmed Salama",
+  "others": [
+    {
+      "bullets": [
+        "English (Fluent)",
+        "Arabic (Native)",
+        "German (Intermediate)"
+      ],
+      "title": "Languages"
+    },
+    {
+      "bullets": [
+        "Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Leadership",
+        "Adaptability"
+      ],
+      "title": "Soft Skills"
+    },
+    {
+      "bullets": [
+        "https://ausama007.github.io/Salama_Portfolio/"
+      ],
+      "title": "Portfolio"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Naveera Worldwide",
+      "description": "Produced and validated MT103 and pacs.008 transaction data to support FINTRAC regulatory reporting. Improved data-mapping processes by analyzing upstream and downstream systems, and developed technical documentation to ensure compliance and cross-team alignment.\n",
+      "duration": "May 2024 - Jul 2025",
+      "title": "Business Analyst"
+    },
+    {
+      "company": "eVision For Fintech Solutions",
+      "description": "Led SWIFT MT to ISO 20022 MX migration in an Agile Scrum environment using Jira. Prepared BRDs, user stories, and acceptance criteria, and collaborated with QA teams to execute testing and ensure successful delivery.\n",
+      "duration": "Nov 2022 - Feb 2024",
+      "title": "Business Analyst"
+    },
+    {
+      "company": "Abu Dhabi Islamic Bank",
+      "description": "Delivered SAP BusinessObjects reports and performed root-cause analysis for IFRS 9 financial data. Maintained end-of-day, month-end, and year-end reporting pipelines to ensure accuracy and system reliability.\n",
+      "duration": "Nov 2021 - Nov 2022",
+      "title": "Data Engineer"
+    }
+  ],
+  "skills": {
+    "Business Skills": [
+      "Agile / Scrum",
+      "Business Requirements Documentation (BRDs)",
+      "User Stories",
+      "BPMN / UML",
+      "Impact \u0026 Gap Analysis",
+      "Stakeholder Management",
+      "Regulatory Reporting (FINTRAC, AML/CFT)",
+      "Communication",
+      "Problem Solving"
+    ],
+    "Technical Skills": [
+      "Java",
+      "Python",
+      "SQL (Oracle, PostgreSQL)",
+      "Linux / Bash",
+      "Git",
+      "Docker",
+      "AWS",
+      "Azure",
+      "Power BI",
+      "Informatica",
+      "SWIFT MT / MX Mapping"
+    ]
+  },
+  "summary": "Business Systems Analyst with over three years of experience in banking, payments, and regulatory reporting environments, including professional experience in Canada. Strong background in SWIFT MT/MX migration, FINTRAC reporting, data mapping, and Agile delivery. Passionate about bridging business and technology to deliver compliant, scalable financial solutions.\n"
+}
