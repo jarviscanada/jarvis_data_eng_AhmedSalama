@@ -48,7 +48,7 @@ The architecture of this project follows a simple data analytics workflow:
 
 **Architecture Diagram**
 
-![Project Architecture](pythondiagram.jpg)
+![Project Architecture](pythondiagram.png)
 
 ---
 
